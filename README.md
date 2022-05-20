@@ -1,16 +1,18 @@
-# title(){return this.options.title||this.options.name}
+# My Website 🌐
 
-## Supporting Scrimba
+### What is this?
+This is my portafolio website, here is where any recruiting team can come and take a look to what I've done and why I'm the man for the job. This is a compilation of my skills and what I can do as a frontend developer.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+### Why are you doing this?
+This project is to simulate real work enviroment for a junior developer, it's an opportunity to experiment what it'll be like having a daily meeting in the Scrum methodology context, having reviews and tasks every day. Also I'm going to stumble my way into working with git and GitHub, my reviewer is a ruthless senior backend developer [Mario Briseño](https://github.com/marioabz).
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+### Can I check it out?
+You can see how the website is going [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-	It would also mean the world to us if you share the courses.  
+### Development
 
-Happy Coding!
+Want to contribute? Great!
+
+But we are not in need of any help.
+
+
